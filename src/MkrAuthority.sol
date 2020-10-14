@@ -1,4 +1,4 @@
-/// MkrAuthority -- custom authority for MKR token access control
+/// MkrAuthority -- custom authority for CGT token access control
 
 // Copyright (C) 2019 Maker Ecosystem Growth Holdings, INC.
 //
